@@ -3,9 +3,9 @@
 This plugin was made by Atharva Mishra and it was made with eclipse
 ## How to use this plugin
 ### Download eclipse
-To download eclipse, go to [Here] (https://www.eclipse.org/downloads/packages/release/kepler/sr1/eclipse-ide-java-developers) and download using the option for your os and operating system.
+To download eclipse, go to (Here) [https://www.eclipse.org/downloads/packages/release/kepler/sr1/eclipse-ide-java-developers] and download using the option for your os and operating system.
 ### Create a workspace in eclipse
-To create a workspace in eclipse see this [video] (https://www.youtube.com/watch?v=Lv0EgLpQqtI)
+To create a workspace in eclipse see this (video) [https://www.youtube.com/watch?v=Lv0EgLpQqt].
 ### Go to the workspace folder
 Once you have created an eclipse workspace you need to locate the folder if you picked your own location then go there but if you picked your own then go to **_C:\Users\(Username)\eclipse-workspace_** and download the folder in the github repository and drag and drop it into this folder then start you eclipse and it should be there.
 ### Export and a JAR file
